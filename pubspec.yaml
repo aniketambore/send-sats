@@ -1,0 +1,63 @@
+name: send_sats
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.3
+  flutter_webln: ^0.0.1
+  qr_flutter: ^4.0.0
+  fluttertoast: ^8.0.9
+  confetti: ^0.7.0
+  just_audio: ^0.9.29
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:  
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/audio/
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
