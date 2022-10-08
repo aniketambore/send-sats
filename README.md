@@ -81,3 +81,14 @@ Instructor: Aniket Ambore (aka. Anipy)
    - Github: https://github.com/aniketambore
    - Twitter: https://twitter.com/Anipy1
    - LinkedIn: https://www.linkedin.com/in/aniketambore/
+
+## Contributing:
+
+ - Fork it!
+ - Create your feature branch: `git checkout -b my-new-feature`
+ - Commit your changes: `git commit -am 'Add some feature'`
+ - Push to the branch: `git push origin my-new-feature`
+ - Submit a pull request.
+
+
+<h3 align="center">Show some ❤ and star the repo to support the project</h3>
