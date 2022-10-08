@@ -78,12 +78,12 @@ This course is divided into multiple sections and video lectures which includes:
 # Screenshot
 
 <div align="center">
-     <p>Invoice Card</p>   
+     <h2><b>Invoice Card</b></h2> 
     <img src="README/1.Mockup.png?raw=true" alt="Invoice Card"/>
 </div>
 
 <div align="center">
-     <p>Payment Card</p>   
+     <h2><b>Payment Card</b></h2> 
     <img src="README/2.Mockup.png?raw=true" alt="Payment Card"/>
 </div>
 
