@@ -75,6 +75,17 @@ This course is divided into multiple sections and video lectures which includes:
 
 - Bonus Lectures…………………………
 
+# Screenshot
+
+<div align="center">
+     <p>Invoice Card</p>   
+    <img src="README/1.Mockup.png?raw=true" alt="Invoice Card"/>
+</div>
+
+<div align="center">
+     <p>Payment Card</p>   
+    <img src="README/2.Mockup.png?raw=true" alt="Payment Card"/>
+</div>
 
 Instructor: Aniket Ambore (aka. Anipy)
 
